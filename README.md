@@ -33,6 +33,10 @@ Me chamo Emily Yukari Morimoto e atualmente estou cursando Sistemas de Informaç
 
 📐Ajude Ana, uma garota inteligente e curiosa a descobrir o motivo do sumiço de seu avô em uma aventura matemática.
 
-🧠Resolva os desafios de raciocínio lógico para desvendar o passado e colocar um fim ao mistério que assombra a sua família em uma narrativa intrigante e educativa.
+🧠O jogo conta com alguns desafios de matemática focados para crianças. Resolva os desafios desvendar o passado e colocar um fim ao mistério que assombra a sua família em uma narrativa intrigante e educativa.
+
+<img src="https://github.com/user-attachments/assets/03cc044a-adbf-4341-8481-0a53e8f92d5b" alt="Projeto Aurora" width="400" />
+<img src="https://github.com/user-attachments/assets/90ae724e-ae9b-4135-9406-cb732366e52d" alt="Projeto Aurora" width="400"/>
+<img src="https://github.com/user-attachments/assets/bb8ad468-5695-41a7-8be3-aded65cad174" alt="Projeto Aurora" width="400"/>
 
 
