@@ -19,8 +19,6 @@ Me chamo Emily Yukari Morimoto e atualmente estou cursando Sistemas de Informaç
 
 ## 🚀 Projetos 
 
-###
-
 ## Rotú 
 🔎Utilizando a câmera do dispositivo, o aplicativo identifica alto teor de açúcares adicionados, gorduras e/ou sódio em embalagens. Criado para oferecer maior independência a deficientes visuais.
 
@@ -29,5 +27,12 @@ Me chamo Emily Yukari Morimoto e atualmente estou cursando Sistemas de Informaç
 <img src="https://github.com/user-attachments/assets/31c0cfe9-caf1-4266-b5a8-d6289b2faede" alt="Descrição da Imagem" width="200"/>
 <img src="https://github.com/user-attachments/assets/266ea5d0-c7ce-4955-8035-dc7f3851e3e1" alt="Descrição da Imagem" width="200"/>
 
+###
+
+## Projeto Aurora
+
+📐Ajude Ana, uma garota inteligente e curiosa a descobrir o motivo do sumiço de seu avô em uma aventura matemática.
+
+🧠Resolva os desafios de raciocínio lógico para desvendar o passado e colocar um fim ao mistério que assombra a sua família em uma narrativa intrigante e educativa.
 
 
