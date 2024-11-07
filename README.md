@@ -58,8 +58,8 @@ Me chamo Emily Yukari Morimoto e atualmente estou cursando Sistemas de Informaç
 
 🔒A segurança é uma prioridade no Arqion. Com o suporte ao Sign in with Apple, oferecemos uma camada extra de proteção ao seus dados e informações sensíveis. Além disso, o aplicativo se integra perfeitamente ao ecossistema Apple, permitindo que você se comunique com seus clientes de forma rápida e eficaz por meio do Mail, e os adicione de forma automática aos contatos.
 
-<img src="https://github.com/user-attachments/assets/151a76c9-faa3-4ccb-959b-f3902b7f050d" alt="Projeto Aurora" width="400" />
-<img src="https://github.com/user-attachments/assets/98de90f1-eb5f-4523-a729-a163b631c90ac" alt="Projeto Aurora" width="400"/>
-<img src="https://github.com/user-attachments/assets/b65c39f1-e0f3-4e9f-a3e0-e22defa050b9" alt="Projeto Aurora" width="400"/>
+<img src="https://github.com/user-attachments/assets/b65c39f1-e0f3-4e9f-a3e0-e22defa050b9" alt="Projeto Aurora" width="300"/>
+<img src="https://github.com/user-attachments/assets/98de90f1-eb5f-4523-a729-a163b631c90ac" alt="Projeto Aurora" width="300"/>
+<img src="https://github.com/user-attachments/assets/151a76c9-faa3-4ccb-959b-f3902b7f050d" alt="Projeto Aurora" width="300" />
 
 
