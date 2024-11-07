@@ -47,10 +47,9 @@ Me chamo Emily Yukari Morimoto e atualmente estou cursando Sistemas de Informaç
 
 🔪Pensado para pessoas que desejam ter mais praticidade durante as compras, o app oferece uma lista de ingredientes conectada com o planejamento, mostrando tudo o que é necessário para as receitas inseridas. 
 
-
-<img src="https://github.com/user-attachments/assets/3513f8f9-3cb1-4bb0-b353-2af992d016fb" alt="Projeto Aurora" width="200" />
-<img src="https://github.com/user-attachments/assets/55d33e9b-c99f-49e3-ad5a-a7e1ceb40dbc" alt="Projeto Aurora" width="200"/>
-<img src="https://github.com/user-attachments/assets/5cf18d5a-b2e0-4eef-a029-6dde74afc923" alt="Projeto Aurora" width="200"/>
+<img src="https://github.com/user-attachments/assets/3513f8f9-3cb1-4bb0-b353-2af992d016fb" alt="Tá na mesa!" width="200" />
+<img src="https://github.com/user-attachments/assets/55d33e9b-c99f-49e3-ad5a-a7e1ceb40dbc" alt="Tá na mesa!" width="200"/>
+<img src="https://github.com/user-attachments/assets/5cf18d5a-b2e0-4eef-a029-6dde74afc923" alt="Tá na mesa!" width="200"/>
 
 ## Arqion
 📁Transforme a maneira como você gerencia seus processos e documentos jurídicos com o Arqion. Uma ferramenta essencial para advogados que buscam eficiência, segurança e organização. Desenvolvido especialmente para atender às necessidades do setor jurídico, o Arqion combina uma interface intuitiva com funcionalidades avançadas, permitindo que você otimize seu tempo e mantenha todas as informações importantes ao seu alcance.
@@ -58,3 +57,9 @@ Me chamo Emily Yukari Morimoto e atualmente estou cursando Sistemas de Informaç
 🗂️Você pode gerenciar de forma centralizada os dados de seus clientes e acompanhar seus processos com detalhes completos. Além disso, a organização de documentos torna-se mais simples, permitindo que você importe PDFs e os armazene em pastas, organizadas conforme as necessidades do caso. O acompanhamento de processos distribuídos garante que você tenha total controle sobre o andamento dos seus casos, com atualizações das movimentações, ajudando a mantê-lo informado sobre mudanças.
 
 🔒A segurança é uma prioridade no Arqion. Com o suporte ao Sign in with Apple, oferecemos uma camada extra de proteção ao seus dados e informações sensíveis. Além disso, o aplicativo se integra perfeitamente ao ecossistema Apple, permitindo que você se comunique com seus clientes de forma rápida e eficaz por meio do Mail, e os adicione de forma automática aos contatos.
+
+<img src="https://github.com/user-attachments/assets/151a76c9-faa3-4ccb-959b-f3902b7f050d" alt="Projeto Aurora" width="400" />
+<img src="https://github.com/user-attachments/assets/98de90f1-eb5f-4523-a729-a163b631c90ac" alt="Projeto Aurora" width="400"/>
+<img src="https://github.com/user-attachments/assets/b65c39f1-e0f3-4e9f-a3e0-e22defa050b9" alt="Projeto Aurora" width="400"/>
+
+
