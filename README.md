@@ -40,3 +40,12 @@ Me chamo Emily Yukari Morimoto e atualmente estou cursando Sistemas de Informaç
 <img src="https://github.com/user-attachments/assets/bb8ad468-5695-41a7-8be3-aded65cad174" alt="Projeto Aurora" width="400"/>
 
 
+## Tá na Mesa!
+
+👩‍🍳O Tá na mesa! é um aplicativo criado para auxiliar no seu planejamento de receitas durante a semana. 
+
+📖Adicione as receitas que você mais gosta para consultá-las a qualquer momento. Elas são separadas por categorias que irão te ajudar na organização. Depois de criadas, você consegue adicioná-las ao planejamento semanal, que é uma ferramenta para te auxiliar com suas refeições durante seu dia a dia.
+
+🔪Pensado para pessoas que desejam ter mais praticidade durante as compras, o app oferece uma lista de ingredientes conectada com o planejamento, mostrando tudo o que é necessário para as receitas inseridas. 
+
+
